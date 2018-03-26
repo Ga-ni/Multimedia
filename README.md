@@ -1,2 +1,2 @@
 # Multimedia
-to record multimedia class lab.
+I use this repos to record multimedia class labs.
